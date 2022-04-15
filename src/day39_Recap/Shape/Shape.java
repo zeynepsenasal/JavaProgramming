@@ -3,7 +3,7 @@ package day39_Recap.Shape;
 public class Shape {
     private String name;
 
-    public String getName(String name) {
+    public String getName() {
         return name;
     }
 
