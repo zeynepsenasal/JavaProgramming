@@ -1,4 +1,4 @@
-package day18_NestedLoop.day24_CustomMethods_Return;
+package day24_CustomMethods_Return;
 
 public class ReturnMethodIntro {
     public static void main(String[] args) {

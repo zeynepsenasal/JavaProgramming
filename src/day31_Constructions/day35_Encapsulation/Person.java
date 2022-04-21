@@ -1,4 +1,4 @@
-package day35_Encapsulation;
+package day31_Constructions.day35_Encapsulation;
 
 public class Person {
     public String name;

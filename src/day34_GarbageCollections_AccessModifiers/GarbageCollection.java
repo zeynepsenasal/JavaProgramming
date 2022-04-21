@@ -1,7 +1,7 @@
 package day34_GarbageCollections_AccessModifiers;
 
 import day31_Constructions.Student;
-import day23_CustomMethods_Void.day32_Constructions.Car;
+import day32_Constructions.Car;
 import day30_CustomClasses.Dog;
 
 import java.util.ArrayList;
