@@ -27,6 +27,11 @@ public class StringMethods {
 
         String[] arr = email.split("@");
 
+        String x = arr[0];
+        String y= arr[1];
+
+        System.out.println(x+y);
+
         System.out.println(Arrays.toString(arr));
 
         System.out.println("------------------------------------------");
