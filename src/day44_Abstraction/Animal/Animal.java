@@ -63,6 +63,7 @@ public abstract class Animal {
 
     public abstract void eat(); //CANNOT BE FINAL, BECAUSE FINALS CANNOT BE OVERRIDEN
 
+
     @Override
     public String toString() {
         return getClass().getSimpleName()+ "{" +
@@ -74,4 +75,6 @@ public abstract class Animal {
                 ", color='" + color + '\'' +
                 '}';
     }
+
+
 }
