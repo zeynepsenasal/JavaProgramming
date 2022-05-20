@@ -1,6 +1,6 @@
 package day45_Abstraction.shape;
 
-public class Square extends Shape {
+public class Square extends Shape implements Perimeter {
     private double side;
 
     public Square(double side) {
@@ -24,10 +24,9 @@ public class Square extends Shape {
         return side*side;
     }
 
-    @Override
-    public double perimeter() {
-        return 2*(side+side);
-    }
+   public double perimeter(){
+       return 2*(side+side);
+   }
 
     @Override
     public String toString() {

@@ -1,6 +1,6 @@
 package day45_Abstraction.shape;
 
-public abstract class Shape {
+public abstract class Shape{
     private final String name;
 
     public Shape(String name) {
@@ -13,13 +13,14 @@ public abstract class Shape {
 
     public abstract double area();
 
-    public abstract double perimeter();
+
 
     @Override
     public String toString() {
-        return
+        return "Shape{" +
                 "name='" + getName() + '\'' +
                 "area='" + area() + '\'' +
-                "perimeter='" + perimeter() + '\'' ;
+                "perimeter='" + getName() + '\'' +
+                '}';
     }
 }

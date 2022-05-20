@@ -1,6 +1,6 @@
 package day45_Abstraction.shape;
 
-public class Circle extends Shape{
+public class Circle extends Shape implements Perimeter{
     private double radius;
     public final static double pi =3.14;
 
