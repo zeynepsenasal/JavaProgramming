@@ -2,7 +2,8 @@ package day28_ArrayList;
 
 import java.util.ArrayList;
 
-public class ArrayListPractise {
+public class
+ArrayListPractise {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(10);

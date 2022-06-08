@@ -1,4 +1,4 @@
-package day06_PrimitiveTypeCastings.day10_nestedIf;
+package day10_nestedIf;
 
 public class Http {
     public static void main(String[] args) {

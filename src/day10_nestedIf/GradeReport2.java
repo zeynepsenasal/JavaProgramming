@@ -1,4 +1,4 @@
-package day06_PrimitiveTypeCastings.day10_nestedIf;
+package day10_nestedIf;
 
 import com.sun.security.jgss.GSSUtil;
 

@@ -1,4 +1,4 @@
-package day06_PrimitiveTypeCastings.day10_nestedIf;
+package day10_nestedIf;
 
 public class GradeLevel {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package day36_Inheritence.encapsualtion;
 
-public class Student {
+public class    Student {
     private String name;
     private int age;
     private char gender, grade;
